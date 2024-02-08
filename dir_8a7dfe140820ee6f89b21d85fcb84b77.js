@@ -43,9 +43,6 @@ var dir_8a7dfe140820ee6f89b21d85fcb84b77 =
       [ "register_file", "classregister__file.html", "classregister__file" ],
       [ "register_file.rtl", "classregister__file_1_1rtl.html", "classregister__file_1_1rtl" ]
     ] ],
-    [ "rom_pkg.vhd", "rom__pkg_8vhd.html", [
-      [ "rom", "classrom.html", "classrom" ]
-    ] ],
     [ "topmodule.vhd", "topmodule_8vhd.html", [
       [ "topmodule", "classtopmodule.html", "classtopmodule" ],
       [ "topmodule.rtl", "classtopmodule_1_1rtl.html", "classtopmodule_1_1rtl" ]

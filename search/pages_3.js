@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['functional_20and_20performance_20requirements_697',['Functional and Performance Requirements',['../md_docs_PDD_md_03_fr_pr.html',1,'']]],
-  ['fysh_20programming_20language_20compiler_698',['Fysh Programming Language Compiler',['../md_fysh_README.html',1,'']]]
+  ['hardware_20components_697',['Hardware Components',['../md_docs_PDD_md_04_1_components.html',1,'']]],
+  ['high_2dlevel_20hardware_20design_698',['High-Level Hardware Design',['../md_docs_PDD_md_07_hardware_design.html',1,'']]],
+  ['high_2dlevel_20software_2ffirmware_20design_699',['High-Level Software/Firmware Design',['../md_docs_PDD_md_08_software_design.html',1,'']]]
 ];

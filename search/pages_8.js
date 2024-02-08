@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['risc_2dv_20instruction_20set_20manual_706',['RISC-V Instruction Set Manual',['../md_cpu_docs_FIVE_EMBED_DEV.html',1,'']]]
+  ['system_20design_707',['System Design',['../md_docs_PDD_md_04_0_system_design.html',1,'']]],
+  ['system_20requirements_708',['System Requirements',['../md_docs_PDD_md_05_system_requirements.html',1,'']]]
 ];

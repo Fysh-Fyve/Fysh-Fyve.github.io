@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['concept_20of_20operation_693',['Concept of Operation',['../md_docs_PDD_md_02_concept_of_operation.html',1,'']]],
-  ['controller_20outputs_694',['Controller Outputs',['../md_cpu_docs_controller.html',1,'']]]
+  ['ece_20492_20capstone_20project_693',['ECE 492 Capstone Project',['../md_README.html',1,'']]],
+  ['ece_20492_20risc_2dv_20project_694',['ECE 492 RISC-V Project',['../md_cpu_README.html',1,'']]]
 ];

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.9.1"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>RISC-V CPU &amp; Fysh Compiler: System Design</title>
+<title>RISC-V CPU &amp; Fysh Compiler: Preliminary Design: FPGA-Based RISC-V CPU and Fysh Programming Language and Compiler (System Name: Fysh-Fyve)</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -72,7 +72,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search','.html');
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:cf05388f2679ee054f2beb29a391d25f4e673ac3&amp;dn=gpl-2.0.txt GPL-v2 */
-$(document).ready(function(){initNavTree('md_docs_PDD_md_04_00_system_design.html',''); initResizable(); });
+$(document).ready(function(){initNavTree('md_docs_PDD_md_001_title.html',''); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -92,21 +92,32 @@ $(document).ready(function(){initNavTree('md_docs_PDD_md_04_00_system_design.htm
 
 <div class="PageDoc"><div class="header">
   <div class="headertitle">
-<div class="title">System Design </div>  </div>
+<div class="title">Preliminary Design: FPGA-Based RISC-V CPU and Fysh Programming Language and Compiler (System Name: Fysh-Fyve) </div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p>\tpl{Define the system architecture that will meet the FRs and PRs. Think of deployment first (are there separate physical parts, like a smartphone and remote sensor?), and then for each deployment element, define the main HW, SW, and FW components and their relationship. A UML deployment diagram with component annotations is appropriate, or separate \href{<a href="https://sparxsystems.com/enterprise_architect_user_guide/15.2/model_domains/deploymentdiagram.html">https://sparxsystems.com/enterprise_architect_user_guide/15.2/model_domains/deploymentdiagram.html</a>}{deployment} and \href{<a href="https://sparxsystems.com/enterprise_architect_user_guide/15.2/model_domains/componentdiagram.html">https://sparxsystems.com/enterprise_architect_user_guide/15.2/model_domains/componentdiagram.html</a>}{component} diagrams.</p>
-<p>\vskip 11pt</p>
-<p>Here, one introductory paragraph is required and expected. It should describe the system at a very high level. E.g., “The Toddler Monitor system comprises two main subsystem, the user’s smartphone and the monitor. Major nodes and components in each subsystem are identified below”.}</p>
-<p>The overall system will have two parts as shown in figure fig:deployment}, the Fysh cross-compiler (Fyshc) in the development machine, and the RISC-V CPU (Fysh-Fyve) in the Zybo board.</p>
-<h1><a class="anchor" id="autotoc_md34"></a>
-System Architecture</h1>
-<p>\tpl{One or two UML diagrams. Either a UML deployment diagram with component annotations is appropriate, or separate \href{<a href="https://sparxsystems.com/enterprise_architect_user_guide/15.2/model_domains/deploymentdiagram.html">https://sparxsystems.com/enterprise_architect_user_guide/15.2/model_domains/deploymentdiagram.html</a>}{deployment} and \href{<a href="https://sparxsystems.com/enterprise_architect_user_guide/15.2/model_domains/componentdiagram.html">https://sparxsystems.com/enterprise_architect_user_guide/15.2/model_domains/componentdiagram.html</a>}{component} diagrams.</p>
-<p>\vskip 11pt</p>
-<p>One or two pages should be needed including a brief text explanation in which the figure(s) are referenced}</p>
-<p>\tpl{In the subsections below, list the major HW, FW, SW subsystems and components in each. For example, if the design relies on a smartphone, that is both a deployment node and a HW component. Note any special considerations, such as specific component or node requirements; e.g., a simple inertial motion unit may be sufficient for a component that measures motion, or maybe something with 9 degrees of freedom is needed…}</p>
-<p>\input{tex/deployment}</p>
-<p>\input{tex/component} </p>
+<div class="toc"><h3>Table of Contents</h3>
+<ul><li class="level1"><a href="#autotoc_md24">Revisions</a></li>
+<li class="level1"><a href="#autotoc_md25">Table of Contents</a></li>
+<li class="level1"><a href="#autotoc_md26">Acronyms</a></li>
+<li class="level1"><a href="#autotoc_md27">References</a></li>
+</ul>
+</div>
+<div class="textblock"><p>\setcounter{secnumdepth}{0} \addtocontents{toc}{\protect\setcounter{tocdepth}{0}}</p>
+<h1><a class="anchor" id="autotoc_md24"></a>
+Revisions</h1>
+<p>\input{tex/00-revisions}</p>
+<p>\newpage</p>
+<h1><a class="anchor" id="autotoc_md25"></a>
+Table of Contents</h1>
+<p>\newpage</p>
+<h1><a class="anchor" id="autotoc_md26"></a>
+Acronyms</h1>
+<p>\input{tex/01-acronyms}</p>
+<h1><a class="anchor" id="autotoc_md27"></a>
+References</h1>
+<div id="refs"></div><p>References [@gitlab] must [@pandoc] be [@crack] used or else they don't show up in the bibliography [@ppr] [@pp].</p>
+<p>\newpage</p>
+<p>\setcounter{secnumdepth}{3} \addtocontents{toc}{\protect\setcounter{tocdepth}{3}} </p>
 </div></div><!-- contents -->
 </div><!-- PageDoc -->
 </div><!-- doc-content -->

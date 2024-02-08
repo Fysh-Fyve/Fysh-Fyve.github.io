@@ -52,18 +52,22 @@ var NAVTREE =
       ] ],
       [ "Naming Convention", "md_cpu_README.html#autotoc_md20", null ]
     ] ],
-    [ "01-purpose", "md_docs_PDD_md_01_purpose.html", [
-      [ "Purpose", "md_docs_PDD_md_01_purpose.html#autotoc_md28", null ]
+    [ "Preliminary Design: FPGA-Based RISC-V CPU and Fysh Programming Language and Compiler (System Name: Fysh-Fyve)", "md_docs_PDD_md_001_title.html", [
+      [ "Revisions", "md_docs_PDD_md_001_title.html#autotoc_md24", null ],
+      [ "Table of Contents", "md_docs_PDD_md_001_title.html#autotoc_md25", null ],
+      [ "Acronyms", "md_docs_PDD_md_001_title.html#autotoc_md26", null ],
+      [ "References", "md_docs_PDD_md_001_title.html#autotoc_md27", null ]
     ] ],
+    [ "Purpose", "md_docs_PDD_md_01_purpose.html", null ],
     [ "Concept of Operation", "md_docs_PDD_md_02_concept_of_operation.html", [
       [ "User Stories", "md_docs_PDD_md_02_concept_of_operation.html#autotoc_md30", null ],
       [ "Use Cases", "md_docs_PDD_md_02_concept_of_operation.html#autotoc_md31", null ]
     ] ],
     [ "Functional and Performance Requirements", "md_docs_PDD_md_03_fr_pr.html", null ],
-    [ "System Design", "md_docs_PDD_md_04_00_system_design.html", [
-      [ "System Architecture", "md_docs_PDD_md_04_00_system_design.html#autotoc_md34", null ]
+    [ "System Design", "md_docs_PDD_md_04_0_system_design.html", [
+      [ "System Architecture", "md_docs_PDD_md_04_0_system_design.html#autotoc_md34", null ]
     ] ],
-    [ "Hardware Components", "md_docs_PDD_md_04_01_components.html", null ],
+    [ "Hardware Components", "md_docs_PDD_md_04_1_components.html", null ],
     [ "System Requirements", "md_docs_PDD_md_05_system_requirements.html", null ],
     [ "Minimum Design", "md_docs_PDD_md_06_minimum_design.html", null ],
     [ "High-Level Hardware Design", "md_docs_PDD_md_07_hardware_design.html", null ],
