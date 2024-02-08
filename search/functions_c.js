@@ -1,7 +1,10 @@
 var searchData=
 [
-  ['scales_481',['scales',['../classfysh_1_1FyshLexer.html#acdd0918b2fa7ec1034b8b500fcc7acd5',1,'fysh::FyshLexer']]],
-  ['slashorcomment_482',['slashOrComment',['../classfysh_1_1FyshLexer.html#a4da1153fd064976acf6a7cacb1223eb7',1,'fysh::FyshLexer']]],
-  ['swimleft_483',['swimLeft',['../classfysh_1_1FyshLexer.html#ab95d77b0d3205e89460fefa508aa59f6',1,'fysh::FyshLexer']]],
-  ['swimright_484',['swimRight',['../classfysh_1_1FyshLexer.html#ad10d6f4f4cc6daf7983e547d5b631c17',1,'fysh::FyshLexer']]]
+  ['random_722',['random',['../classfysh_1_1FyshLexer.html#a1fcd4da09597439b1628a0527c6273ed',1,'fysh::FyshLexer']]],
+  ['reg_5ffile_5ftesting_723',['reg_file_testing',['../classregister__file__tb_1_1test__bench.html#a04b649ff982a285492dd541f428cfe32',1,'register_file_tb::test_bench']]],
+  ['register_5fread_724',['register_read',['../classregister__file_1_1rtl.html#a0e1b53777557bb48a896cacc193cbf0c',1,'register_file::rtl']]],
+  ['register_5fwrite_725',['register_write',['../classregister__file_1_1rtl.html#a6d5ec53e0ac3dc458c4730b1ee9a8319',1,'register_file::rtl']]],
+  ['relocate_726',['relocate',['../control__fsm__tb__behav_2obj_2xsim__1_8c.html#aed3b854c5cadba2fe00b756623359f38',1,'relocate(char *dp):&#160;xsim_1.c'],['../topmodule__tb__behav_2obj_2xsim__1_8c.html#aed3b854c5cadba2fe00b756623359f38',1,'relocate(char *dp):&#160;xsim_1.c']]],
+  ['rep_727',['rep',['../classcontrol__fsm__tb_1_1test__bench.html#a9dc0804233a75a30535c830a1df3b80c',1,'control_fsm_tb::test_bench']]],
+  ['rest_728',['rest',['../classfysh_1_1FyshLexer.html#acdc679dd367ae93b23b3db8f2d3c57a9',1,'fysh::FyshLexer']]]
 ];

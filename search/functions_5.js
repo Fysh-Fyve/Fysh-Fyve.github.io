@@ -1,11 +1,5 @@
 var searchData=
 [
-  ['identifier_450',['identifier',['../classfysh_1_1FyshLexer.html#a6f3d9a09c4943d12bbe2b0b8a2835c84',1,'fysh::FyshLexer']]],
-  ['imm_5ftest_5fcases_451',['imm_test_cases',['../classimm__sx__tb_1_1test__bench.html#acb2d55c25556a4740f65f61b99fafaf4',1,'imm_sx_tb::test_bench']]],
-  ['insn_5fregister_452',['insn_register',['../classmemory_1_1rtl.html#a3516fa1fef7656a3b1685b0fe830f3f4',1,'memory::rtl']]],
-  ['int_5ffrom_5fbit_453',['int_from_bit',['../classalu_1_1rtl.html#ac3d69bc4c89e018b9f1b3005b08c3661',1,'alu::rtl']]],
-  ['isfysheye_454',['isFyshEye',['../classfysh_1_1FyshLexer.html#ad6b03db6fb2ee78ccf5091f1a653ae8c',1,'fysh::FyshLexer']]],
-  ['isoneof_455',['isOneOf',['../classfysh_1_1Fysh.html#abe2a1ac315c2c898ce478970decaaec6',1,'fysh::Fysh::isOneOf(Species type1, Species type2) const noexcept'],['../classfysh_1_1Fysh.html#ade4454a7d13da72f8de959d6bbae40e4',1,'fysh::Fysh::isOneOf(Species species1, Species species2, Ts... ks) const noexcept']]],
-  ['isscale_456',['isScale',['../Lexer_8cc.html#a3aa8af6b01d27c7e9359ccc454c59b92',1,'Lexer.cc']]],
-  ['isspace_457',['isSpace',['../Lexer_8cc.html#a7654c7ed5b5d2902e89a453222a4d280',1,'Lexer.cc']]]
+  ['heart_694',['heart',['../classfysh_1_1FyshLexer.html#ae4a4b4db3d904ec33ebb594ff53cddb8',1,'fysh::FyshLexer']]],
+  ['heartbreak_695',['heartBreak',['../classfysh_1_1FyshLexer.html#a3a2f5fefdc79d2f038802b914efc4447',1,'fysh::FyshLexer']]]
 ];
