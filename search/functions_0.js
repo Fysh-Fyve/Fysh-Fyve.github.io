@@ -1,9 +1,6 @@
 var searchData=
 [
-  ['addfilter_1248',['addFilter',['../classdoctest_1_1Context.html#a60ad57a46c19db2b142468c3acac448a',1,'doctest::Context']]],
-  ['allocate_1249',['allocate',['../classdoctest_1_1String.html#a6f861e8ed006680f430dfc05844f44ca',1,'doctest::String']]],
-  ['applycommandline_1250',['applyCommandLine',['../classdoctest_1_1Context.html#ad55229220bf9ca74e6e0c6323bf672e1',1,'doctest::Context']]],
-  ['approx_1251',['Approx',['../structdoctest_1_1Approx.html#a86f0d1b44c1cf095697f23ccdab00802',1,'doctest::Approx']]],
-  ['assertdata_1252',['AssertData',['../structdoctest_1_1AssertData.html#ae1f9906888c2dd06b6291ab196f5074e',1,'doctest::AssertData']]],
-  ['assertstring_1253',['assertString',['../namespacedoctest.html#aa51be8558a5ec9675a77d2ecbc08e663',1,'doctest']]]
+  ['clock_436',['clock',['../classalu__control__tb_1_1test__bench.html#ac2576ed897055da12ccaede507aeb128',1,'alu_control_tb.test_bench.clock()'],['../classmem__tb_1_1test__bench.html#a5203add97594e41e3022ed1e2dfaba1e',1,'mem_tb.test_bench::clock()'],['../classregister__file__tb_1_1test__bench.html#ac7cf0ccb4a8048fbc45bd1e78d2ad556',1,'register_file_tb.test_bench::clock()']]],
+  ['closewtf_437',['closeWTF',['../classfysh_1_1FyshLexer.html#a04659111628199594858759bf2f28766',1,'fysh::FyshLexer']]],
+  ['culldeformedfysh_438',['cullDeformedFysh',['../classfysh_1_1FyshLexer.html#aa8a6017e5fcd85d77898cd2385b9f1c7',1,'fysh::FyshLexer']]]
 ];

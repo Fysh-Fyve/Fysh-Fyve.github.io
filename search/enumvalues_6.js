@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['ge_1792',['ge',['../namespacedoctest_1_1detail_1_1binaryAssertComparison.html#a2117cafa5b007d26f2e0988f3a081569a1de9460fcfb6a1681f13d54083f88313',1,'doctest::detail::binaryAssertComparison']]],
-  ['green_1793',['Green',['../namespacedoctest_1_1Color.html#a32e9eaf6013139846e848af6e6cf2b92a11e251a01549ffbc0993c769e787c6ae',1,'doctest::Color']]],
-  ['grey_1794',['Grey',['../namespacedoctest_1_1Color.html#a32e9eaf6013139846e848af6e6cf2b92aa2a431a059ed0e85160db8967c8ace58',1,'doctest::Color']]],
-  ['gt_1795',['gt',['../namespacedoctest_1_1detail_1_1binaryAssertComparison.html#a2117cafa5b007d26f2e0988f3a081569a3efb665f41cd9490d9739e1ad228918e',1,'doctest::detail::binaryAssertComparison']]]
+  ['increment_682',['INCREMENT',['../namespacefysh.html#aaa227ae9cb30fcb27f1c074e34566b32a90cf1f5206b348a822cc1a453a587534',1,'fysh']]],
+  ['invalid_683',['INVALID',['../namespacefysh.html#aaa227ae9cb30fcb27f1c074e34566b32accc0377a8afbf50e7094f5c23a8af223',1,'fysh']]]
 ];

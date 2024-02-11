@@ -87,30 +87,24 @@ var NAVTREE =
       [ "Namespace Members", "namespacemembers.html", [
         [ "All", "namespacemembers.html", null ],
         [ "Functions", "namespacemembers_func.html", null ],
-        [ "Variables", "namespacemembers_vars.html", null ],
-        [ "Typedefs", "namespacemembers_type.html", null ],
-        [ "Enumerations", "namespacemembers_enum.html", null ],
-        [ "Enumerator", "namespacemembers_eval.html", null ]
+        [ "Enumerations", "namespacemembers_enum.html", null ]
       ] ]
     ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
-      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", "functions_dup" ],
-        [ "Functions", "functions_func.html", "functions_func" ],
-        [ "Variables", "functions_vars.html", "functions_vars" ],
-        [ "Typedefs", "functions_type.html", null ],
-        [ "Related Functions", "functions_rela.html", null ]
+        [ "Functions", "functions_func.html", null ],
+        [ "Variables", "functions_vars.html", "functions_vars" ]
       ] ]
     ] ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ],
       [ "File Members", "globals.html", [
-        [ "All", "globals.html", "globals_dup" ],
+        [ "All", "globals.html", null ],
         [ "Functions", "globals_func.html", null ],
-        [ "Macros", "globals_defs.html", "globals_defs" ]
+        [ "Macros", "globals_defs.html", null ]
       ] ]
     ] ]
   ] ]
@@ -119,13 +113,8 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "Fysh_8cc.html",
-"classdoctest_1_1String.html#a3d0c1d8e0d27818235e0639f49d232e9",
-"classtopmodule_1_1rtl.html#aa4129ac31bd274098e47dcf77782ee92",
-"doctest_8h.html#a6fdd23caff3293146ba6929b2d77465a",
-"doctest_8h.html#ae1bb5bed722f34f1c38b83cb19d326d3aa518f2714c2f58bb1ed3b2d2f8c1b075",
-"namespacedoctest.html#a43b51978c9505f682cbff9462a02f8af",
-"structdoctest_1_1Approx.html#aae907c5ea1c4ac94e134db9e35da7dce",
-"structdoctest_1_1detail_1_1types_1_1remove__const.html#acd10d1a47d144d55b5709a0cf4746209"
+"classfysh_1_1FyshLexer.html#ae4a4b4db3d904ec33ebb594ff53cddb8",
+"md_cpu_README.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

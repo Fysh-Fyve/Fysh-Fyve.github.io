@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['assertfailure_1718',['AssertFailure',['../namespacedoctest_1_1TestCaseFailureReason.html#aecb2ca1f80416d60f0d6b96f65859d3ca06ab32ff93cacaa65c6a2667ddde64e9',1,'doctest::TestCaseFailureReason']]]
+  ['bitwise_5fand_665',['BITWISE_AND',['../namespacefysh.html#aaa227ae9cb30fcb27f1c074e34566b32aaa5f2eafabf8fa18cbb708c657f37245',1,'fysh']]],
+  ['bitwise_5for_666',['BITWISE_OR',['../namespacefysh.html#aaa227ae9cb30fcb27f1c074e34566b32a0d89cfe1f2f7f0c2deb3d35455783ab9',1,'fysh']]],
+  ['bitwise_5fxor_667',['BITWISE_XOR',['../namespacefysh.html#aaa227ae9cb30fcb27f1c074e34566b32a6d7cca7c0f0f278c56131a25e77c4a5c',1,'fysh']]]
 ];
