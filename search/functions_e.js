@@ -1,14 +1,22 @@
 var searchData=
 [
-  ['test_5fcase_735',['TEST_CASE',['../Fysh__test_8cc.html#a5c69404833b965dad19534753048be47',1,'TEST_CASE(&quot;isOneOf&quot;):&#160;Fysh_test.cc'],['../Register__test_8cc.html#ac745deb7ee9c91634d044025bed23b9c',1,'TEST_CASE(&quot;lookupRegister&quot;):&#160;Register_test.cc'],['../Lexer__test_8cc.html#a71b0aa6841298afd9ce546e38029b59f',1,'TEST_CASE(&quot;Bitwise Operations&quot;):&#160;Lexer_test.cc'],['../Lexer__test_8cc.html#a7c7046ea2b75fe0207428db9f73aa4fe',1,'TEST_CASE(&quot;Swim Left&quot;):&#160;Lexer_test.cc'],['../Lexer__test_8cc.html#a08248fa66da9d224cf37d3fbfa693110',1,'TEST_CASE(&quot;Bad fysh&quot;):&#160;Lexer_test.cc'],['../Lexer__test_8cc.html#a9531c2fa5b9d2b7a9df2602abea9d11b',1,'TEST_CASE(&quot;weird fysh&quot;):&#160;Lexer_test.cc'],['../Lexer__test_8cc.html#adb0b16de507e516dd92f0b2765e69a73',1,'TEST_CASE(&quot;negative fysh&quot;):&#160;Lexer_test.cc'],['../Lexer__test_8cc.html#a166bfa8ad77af1d3bd51b3fb9531e6a4',1,'TEST_CASE(&quot;random fysh&quot;):&#160;Lexer_test.cc'],['../Lexer__test_8cc.html#aa6cdfa368d21f6bd534f308a2ed3a18f',1,'TEST_CASE(&quot;fysh open &amp; wtf open&quot;):&#160;Lexer_test.cc'],['../Lexer__test_8cc.html#a36f24c75b3e6ae76ded67a4b941fef71',1,'TEST_CASE(&quot;positive fysh multiply&quot;):&#160;Lexer_test.cc'],['../Lexer__test_8cc.html#a18bcda03e1125aa2e03d2fbb32cdf8e4',1,'TEST_CASE(&quot;operators&quot;):&#160;Lexer_test.cc']]],
-  ['transaction_5f0_736',['transaction_0',['../control__fsm__tb__behav_2obj_2xsim__1_8c.html#a069769a05b175bad50affde20c0e64d7',1,'transaction_0(char *, char *, unsigned, unsigned, unsigned):&#160;xsim_1.c'],['../topmodule__tb__behav_2obj_2xsim__1_8c.html#a069769a05b175bad50affde20c0e64d7',1,'transaction_0(char *, char *, unsigned, unsigned, unsigned):&#160;xsim_1.c']]],
-  ['transaction_5f1_737',['transaction_1',['../control__fsm__tb__behav_2obj_2xsim__1_8c.html#aacdb963e0c1abecdf7c19621afc8ef52',1,'xsim_1.c']]],
-  ['transaction_5f11_738',['transaction_11',['../topmodule__tb__behav_2obj_2xsim__1_8c.html#ac8207650529921d75fa66dd2610ff602',1,'xsim_1.c']]],
-  ['transaction_5f13_739',['transaction_13',['../topmodule__tb__behav_2obj_2xsim__1_8c.html#ac95115ea6d4b6848cc708cec84c1d93c',1,'xsim_1.c']]],
-  ['transaction_5f14_740',['transaction_14',['../topmodule__tb__behav_2obj_2xsim__1_8c.html#ae84c44867a54bb378e2c09c3ef537967',1,'xsim_1.c']]],
-  ['transaction_5f2_741',['transaction_2',['../topmodule__tb__behav_2obj_2xsim__1_8c.html#a65afa8e295bd4bd89b9d14d3ead73066',1,'xsim_1.c']]],
-  ['transaction_5f20_742',['transaction_20',['../control__fsm__tb__behav_2obj_2xsim__1_8c.html#ad33615e7bb6d8d786446a930c5c616fc',1,'xsim_1.c']]],
-  ['transaction_5f3_743',['transaction_3',['../topmodule__tb__behav_2obj_2xsim__1_8c.html#a6178caf987d75a77fae8c810b1d82ada',1,'xsim_1.c']]],
-  ['transaction_5f33_744',['transaction_33',['../topmodule__tb__behav_2obj_2xsim__1_8c.html#a057da174c367f1562cebb8726702ef95',1,'xsim_1.c']]],
-  ['tryunicode_745',['tryUnicode',['../classfysh_1_1FyshLexer.html#a3ec29ed566ee70ef7254d51918e9396e',1,'fysh::FyshLexer']]]
+  ['random_1357',['random',['../classfysh_1_1FyshLexer.html#a1fcd4da09597439b1628a0527c6273ed',1,'fysh::FyshLexer']]],
+  ['react_1358',['react',['../structdoctest_1_1detail_1_1ResultBuilder.html#a03686f862471728c2980d72e02980213',1,'doctest::detail::ResultBuilder::react()'],['../structdoctest_1_1detail_1_1MessageBuilder.html#a3a65c5e39a0c04ae8e2a7c34997a2e4d',1,'doctest::detail::MessageBuilder::react()']]],
+  ['reel_1359',['reel',['../classfysh_1_1FyshLexer.html#a02147552189a2e8e2ced572ccfcb5c37',1,'fysh::FyshLexer']]],
+  ['reg_5ffile_5ftesting_1360',['reg_file_testing',['../classregister__file__tb_1_1test__bench.html#a04b649ff982a285492dd541f428cfe32',1,'register_file_tb::test_bench']]],
+  ['register_5fread_1361',['register_read',['../classregister__file_1_1rtl.html#a0e1b53777557bb48a896cacc193cbf0c',1,'register_file::rtl']]],
+  ['register_5fwrite_1362',['register_write',['../classregister__file_1_1rtl.html#a6d5ec53e0ac3dc458c4730b1ee9a8319',1,'register_file::rtl']]],
+  ['registerexceptiontranslator_1363',['registerExceptionTranslator',['../namespacedoctest.html#a8e23e6bb4c6982688652060dbe41385d',1,'doctest']]],
+  ['registerexceptiontranslatorimpl_1364',['registerExceptionTranslatorImpl',['../namespacedoctest_1_1detail.html#a3887426da16e0d12e6f0e270a767a6a5',1,'doctest::detail']]],
+  ['registerreporter_1365',['registerReporter',['../namespacedoctest.html#a9e878a811f7bf0a615b3a39de3004673',1,'doctest']]],
+  ['registerreporterimpl_1366',['registerReporterImpl',['../namespacedoctest_1_1detail.html#a828e011bb6028ab94eb14a3c7d8bd2c4',1,'doctest::detail']]],
+  ['regtest_1367',['regTest',['../namespacedoctest_1_1detail.html#a00f99edefb8490a8e2602d58c96431f4',1,'doctest::detail']]],
+  ['rep_1368',['rep',['../classcontrol__fsm__tb_1_1test__bench.html#a9dc0804233a75a30535c830a1df3b80c',1,'control_fsm_tb::test_bench']]],
+  ['report_5fquery_1369',['report_query',['../structdoctest_1_1IReporter.html#ae7e30d1c2cd332094c66d39bf3a85e52',1,'doctest::IReporter']]],
+  ['reportercreator_1370',['reporterCreator',['../namespacedoctest_1_1detail.html#a575cd92f018bfe3c702432a2144ebaca',1,'doctest::detail']]],
+  ['rest_1371',['rest',['../classfysh_1_1FyshLexer.html#acdc679dd367ae93b23b3db8f2d3c57a9',1,'fysh::FyshLexer']]],
+  ['result_1372',['Result',['../structdoctest_1_1detail_1_1Result.html#ae4d2e8633aedaffa31f5c8b8530f522c',1,'doctest::detail::Result::Result(bool passed, const String &amp;decomposition=String())'],['../structdoctest_1_1detail_1_1Result.html#ae38382da1a2d2f8e33aebc7da15febc9',1,'doctest::detail::Result::Result()=default']]],
+  ['resultbuilder_1373',['ResultBuilder',['../structdoctest_1_1detail_1_1ResultBuilder.html#ab55660e3aaa5d8fccbe19360f65bb1f3',1,'doctest::detail::ResultBuilder::ResultBuilder(assertType::Enum at, const char *file, int line, const char *expr, const char *exception_type, const Contains &amp;exception_string)'],['../structdoctest_1_1detail_1_1ResultBuilder.html#a135e00690002d376f3d050700a635680',1,'doctest::detail::ResultBuilder::ResultBuilder(assertType::Enum at, const char *file, int line, const char *expr, const char *exception_type=&quot;&quot;, const String &amp;exception_string=&quot;&quot;)']]],
+  ['rfind_1374',['rfind',['../classdoctest_1_1String.html#a6e22f4f3820de5ffdf82e0acc6646759',1,'doctest::String']]],
+  ['run_1375',['run',['../classdoctest_1_1Context.html#a8059b137ef41cbe6c5d8160806a3cc63',1,'doctest::Context']]]
 ];

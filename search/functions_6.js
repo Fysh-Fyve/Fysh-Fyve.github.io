@@ -1,11 +1,14 @@
 var searchData=
 [
-  ['identifier_696',['identifier',['../classfysh_1_1FyshLexer.html#a6f3d9a09c4943d12bbe2b0b8a2835c84',1,'fysh::FyshLexer']]],
-  ['imm_5ftest_5fcases_697',['imm_test_cases',['../classimm__sx__tb_1_1test__bench.html#acb2d55c25556a4740f65f61b99fafaf4',1,'imm_sx_tb::test_bench']]],
-  ['insn_5fregister_698',['insn_register',['../classmemory_1_1rtl.html#a3516fa1fef7656a3b1685b0fe830f3f4',1,'memory::rtl']]],
-  ['int_5ffrom_5fbit_699',['int_from_bit',['../classalu_1_1rtl.html#ac3d69bc4c89e018b9f1b3005b08c3661',1,'alu::rtl']]],
-  ['isfysheye_700',['isFyshEye',['../classfysh_1_1FyshLexer.html#ad6b03db6fb2ee78ccf5091f1a653ae8c',1,'fysh::FyshLexer']]],
-  ['isoneof_701',['isOneOf',['../classfysh_1_1Fysh.html#abe2a1ac315c2c898ce478970decaaec6',1,'fysh::Fysh::isOneOf(Species type1, Species type2) const noexcept'],['../classfysh_1_1Fysh.html#ade4454a7d13da72f8de959d6bbae40e4',1,'fysh::Fysh::isOneOf(Species species1, Species species2, Ts... ks) const noexcept']]],
-  ['isscale_702',['isScale',['../Lexer_8cc.html#a3aa8af6b01d27c7e9359ccc454c59b92',1,'Lexer.cc']]],
-  ['isspace_703',['isSpace',['../Lexer_8cc.html#a7654c7ed5b5d2902e89a453222a4d280',1,'Lexer.cc']]]
+  ['get_5factive_5fcontexts_1294',['get_active_contexts',['../structdoctest_1_1IReporter.html#a67a2da62d754d3b517d6d50ef210a988',1,'doctest::IReporter']]],
+  ['get_5fnum_5factive_5fcontexts_1295',['get_num_active_contexts',['../structdoctest_1_1IReporter.html#a7d520de46d9104c0eeb02375fabad32d',1,'doctest::IReporter']]],
+  ['get_5fnum_5fstringified_5fcontexts_1296',['get_num_stringified_contexts',['../structdoctest_1_1IReporter.html#ac8b96fef046edc609a3374a61b84797d',1,'doctest::IReporter']]],
+  ['get_5fstringified_5fcontexts_1297',['get_stringified_contexts',['../structdoctest_1_1IReporter.html#acc1a86891876a957c6fc382af7894f99',1,'doctest::IReporter']]],
+  ['getbody_1298',['getBody',['../classfysh_1_1Fysh.html#a1951bc4781915c3aa467c58b468e3874',1,'fysh::Fysh']]],
+  ['getcontextoptions_1299',['getContextOptions',['../namespacedoctest.html#a1ff2f40fd17351e182820848e27e6c79',1,'doctest']]],
+  ['getcurrenttestsuite_1300',['getCurrentTestSuite',['../namespacedoctest__detail__test__suite__ns.html#a3a236c82d51cd3622d14b00aa145df94',1,'doctest_detail_test_suite_ns']]],
+  ['getspecies_1301',['getSpecies',['../classfysh_1_1Fysh.html#a63d800b06c300ee1db42dda43aa06f90',1,'fysh::Fysh']]],
+  ['getvalue_1302',['getValue',['../classfysh_1_1Fysh.html#a24b704f2e353ff93dadb98e804f96f00',1,'fysh::Fysh']]],
+  ['gofysh_1303',['goFysh',['../classfysh_1_1FyshLexer.html#a4215d1b5e27d4e704ab29d5016ce3805',1,'fysh::FyshLexer']]],
+  ['gpio_5fclk_1304',['gpio_clk',['../classphy__map_1_1rtl.html#a49086cc7126c797d3a74af9ccb640999',1,'phy_map::rtl']]]
 ];

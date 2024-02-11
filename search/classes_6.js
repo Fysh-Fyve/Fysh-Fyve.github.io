@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['register_5ffile_504',['register_file',['../classregister__file.html',1,'']]],
-  ['register_5ffile_5ftb_505',['register_file_tb',['../classregister__file__tb.html',1,'']]],
-  ['rom_506',['rom',['../classrom.html',1,'']]],
-  ['rtl_507',['rtl',['../classalu_1_1rtl.html',1,'rtl'],['../classalu__control_1_1rtl.html',1,'rtl'],['../classcontrol__fsm_1_1rtl.html',1,'rtl'],['../classimm__sx_1_1rtl.html',1,'rtl'],['../classmbr__sx_1_1rtl.html',1,'rtl'],['../classmem_1_1rtl.html',1,'rtl'],['../classmemory_1_1rtl.html',1,'rtl'],['../classphy__map_1_1rtl.html',1,'rtl'],['../classprogram__counter_1_1rtl.html',1,'rtl'],['../classregister__file_1_1rtl.html',1,'rtl'],['../classtopmodule_1_1rtl.html',1,'rtl']]]
+  ['has_5finsertion_5foperator_1122',['has_insertion_operator',['../structdoctest_1_1detail_1_1has__insertion__operator.html',1,'doctest::detail']]],
+  ['has_5finsertion_5foperator_3c_20t_2c_20decltype_28operator_3c_3c_28declval_3c_20std_3a_3aostream_20_26_20_3e_28_29_2c_20declval_3c_20const_20t_20_26_20_3e_28_29_29_2c_20void_28_29_29_3e_1123',['has_insertion_operator&lt; T, decltype(operator&lt;&lt;(declval&lt; std::ostream &amp; &gt;(), declval&lt; const T &amp; &gt;()), void())&gt;',['../structdoctest_1_1detail_1_1has__insertion__operator_3_01T_00_01decltype_07operator_3_3_07declvald5a5a279653bbfeef238ad5c984744e2.html',1,'doctest::detail']]]
 ];

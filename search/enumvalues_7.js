@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['left_945',['LEFT',['../namespacefysh.html#ab7cbe1e9914bbc8a573b3158287b3b87a684d325a7303f52e64011467ff5c5758',1,'fysh']]]
+  ['heart_5fdivide_1796',['HEART_DIVIDE',['../namespacefysh.html#aaa227ae9cb30fcb27f1c074e34566b32a0b2692e62ed242ce89df95a78b813529',1,'fysh']]],
+  ['heart_5fmultiply_1797',['HEART_MULTIPLY',['../namespacefysh.html#aaa227ae9cb30fcb27f1c074e34566b32af31a84b7e3e5c40c259288488068e510',1,'fysh']]]
 ];

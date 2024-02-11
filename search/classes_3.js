@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['imm_5fsx_495',['imm_sx',['../classimm__sx.html',1,'']]],
-  ['imm_5fsx_5ftb_496',['imm_sx_tb',['../classimm__sx__tb.html',1,'']]]
+  ['deferred_5ffalse_1108',['deferred_false',['../structdoctest_1_1detail_1_1deferred__false.html',1,'doctest::detail']]]
 ];

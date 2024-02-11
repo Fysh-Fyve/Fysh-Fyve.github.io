@@ -95,18 +95,10 @@ $(document).ready(function(){initNavTree('md_docs_PDD_md_04_0_system_design.html
 <div class="title">System Design </div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p>\tpl{Define the system architecture that will meet the FRs and PRs. Think of deployment first (are there separate physical parts, like a smartphone and remote sensor?), and then for each deployment element, define the main HW, SW, and FW components and their relationship. A UML deployment diagram with component annotations is appropriate, or separate \href{<a href="https://sparxsystems.com/enterprise_architect_user_guide/15.2/model_domains/deploymentdiagram.html">https://sparxsystems.com/enterprise_architect_user_guide/15.2/model_domains/deploymentdiagram.html</a>}{deployment} and \href{<a href="https://sparxsystems.com/enterprise_architect_user_guide/15.2/model_domains/componentdiagram.html">https://sparxsystems.com/enterprise_architect_user_guide/15.2/model_domains/componentdiagram.html</a>}{component} diagrams.</p>
-<p>\vskip 11pt</p>
-<p>Here, one introductory paragraph is required and expected. It should describe the system at a very high level. E.g., “The Toddler Monitor system comprises two main subsystem, the user’s smartphone and the monitor. Major nodes and components in each subsystem are identified below”.}</p>
-<p>The overall system will have two parts as shown in figure fig:deployment}, the Fysh cross-compiler (Fyshc) in the development machine, and the RISC-V CPU (Fysh-Fyve) in the Zybo board.</p>
+<div class="textblock"><p>The overall system will have two parts as shown in figure fig:deployment}, the Fysh toolchain in the development machine, and the RISC-V CPU in the Zybo board.</p>
 <h1><a class="anchor" id="autotoc_md34"></a>
 System Architecture</h1>
-<p>\tpl{One or two UML diagrams. Either a UML deployment diagram with component annotations is appropriate, or separate \href{<a href="https://sparxsystems.com/enterprise_architect_user_guide/15.2/model_domains/deploymentdiagram.html">https://sparxsystems.com/enterprise_architect_user_guide/15.2/model_domains/deploymentdiagram.html</a>}{deployment} and \href{<a href="https://sparxsystems.com/enterprise_architect_user_guide/15.2/model_domains/componentdiagram.html">https://sparxsystems.com/enterprise_architect_user_guide/15.2/model_domains/componentdiagram.html</a>}{component} diagrams.</p>
-<p>\vskip 11pt</p>
-<p>One or two pages should be needed including a brief text explanation in which the figure(s) are referenced}</p>
-<p>\tpl{In the subsections below, list the major HW, FW, SW subsystems and components in each. For example, if the design relies on a smartphone, that is both a deployment node and a HW component. Note any special considerations, such as specific component or node requirements; e.g., a simple inertial motion unit may be sufficient for a component that measures motion, or maybe something with 9 degrees of freedom is needed…}</p>
-<p>\input{tex/deployment}</p>
-<p>\input{tex/component} </p>
+<p>\input{tex/subsystems} </p>
 </div></div><!-- contents -->
 </div><!-- PageDoc -->
 </div><!-- doc-content -->

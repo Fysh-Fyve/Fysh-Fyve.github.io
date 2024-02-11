@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['minimum_20design_969',['Minimum Design',['../md_docs_PDD_md_06_minimum_design.html',1,'']]]
+  ['instructions_20to_20be_20implemented_3f_2207',['Instructions to be implemented?',['../md_cpu_docs_imm_sx.html',1,'']]]
 ];

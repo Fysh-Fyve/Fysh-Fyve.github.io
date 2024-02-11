@@ -28,7 +28,8 @@ var Fysh_8h =
       [ "CONTINUE", "Fysh_8h.html#aaa227ae9cb30fcb27f1c074e34566b32a2f453cfe638e57e27bb0c9512436111e", null ],
       [ "END", "Fysh_8h.html#aaa227ae9cb30fcb27f1c074e34566b32ab1a326c06d88bf042f73d70f50197905", null ],
       [ "BITWISE_AND", "Fysh_8h.html#aaa227ae9cb30fcb27f1c074e34566b32aaa5f2eafabf8fa18cbb708c657f37245", null ],
-      [ "BITWISE_OR", "Fysh_8h.html#aaa227ae9cb30fcb27f1c074e34566b32a0d89cfe1f2f7f0c2deb3d35455783ab9", null ]
+      [ "BITWISE_OR", "Fysh_8h.html#aaa227ae9cb30fcb27f1c074e34566b32a0d89cfe1f2f7f0c2deb3d35455783ab9", null ],
+      [ "BITWISE_XOR", "Fysh_8h.html#aaa227ae9cb30fcb27f1c074e34566b32a6d7cca7c0f0f278c56131a25e77c4a5c", null ]
     ] ],
     [ "operator<<", "Fysh_8h.html#aaf56b86431afef6f847ddceeb74a2050", null ]
 ];

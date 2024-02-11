@@ -1,8 +1,19 @@
 var searchData=
 [
-  ['b_39',['b',['../classalu__tb_1_1test__bench.html#a0aa6e1d3d9389ffd2afb5219a78c4ef1',1,'alu_tb::test_bench']]],
-  ['b_5ftype_40',['b_type',['../classimm__sx_1_1rtl.html#a6a9529139fe9a92245cf1c814cb3e25f',1,'imm_sx::rtl']]],
-  ['bitwise_5fand_41',['BITWISE_AND',['../namespacefysh.html#aaa227ae9cb30fcb27f1c074e34566b32aaa5f2eafabf8fa18cbb708c657f37245',1,'fysh']]],
-  ['bitwise_5for_42',['BITWISE_OR',['../namespacefysh.html#aaa227ae9cb30fcb27f1c074e34566b32a0d89cfe1f2f7f0c2deb3d35455783ab9',1,'fysh']]],
-  ['body_43',['body',['../classfysh_1_1Fysh.html#ac01a6fa012ccf6098d82ca1cb6eb0df0',1,'fysh::Fysh']]]
+  ['b_54',['b',['../classalu__tb_1_1test__bench.html#a0aa6e1d3d9389ffd2afb5219a78c4ef1',1,'alu_tb::test_bench']]],
+  ['b_5ftype_55',['b_type',['../classimm__sx_1_1rtl.html#a6a9529139fe9a92245cf1c814cb3e25f',1,'imm_sx::rtl']]],
+  ['basic_5fistream_56',['basic_istream',['../classstd_1_1basic__istream.html',1,'std']]],
+  ['basic_5fostream_57',['basic_ostream',['../classstd_1_1basic__ostream.html',1,'std']]],
+  ['binary_5fassert_58',['binary_assert',['../namespacedoctest_1_1detail.html#a1e295c708d2de0e47ac89c1632211159',1,'doctest::detail::binary_assert()'],['../structdoctest_1_1detail_1_1ResultBuilder.html#aa920a0617a26939d7adcd1ba2dec0e85',1,'doctest::detail::ResultBuilder::binary_assert()']]],
+  ['binary_5fname_59',['binary_name',['../structdoctest_1_1ContextOptions.html#a0590006b4d10296c9a697e32ff886f74',1,'doctest::ContextOptions']]],
+  ['bitwise_5fand_60',['BITWISE_AND',['../namespacefysh.html#aaa227ae9cb30fcb27f1c074e34566b32aaa5f2eafabf8fa18cbb708c657f37245',1,'fysh']]],
+  ['bitwise_5for_61',['BITWISE_OR',['../namespacefysh.html#aaa227ae9cb30fcb27f1c074e34566b32a0d89cfe1f2f7f0c2deb3d35455783ab9',1,'fysh']]],
+  ['bitwise_5fxor_62',['BITWISE_XOR',['../namespacefysh.html#aaa227ae9cb30fcb27f1c074e34566b32a6d7cca7c0f0f278c56131a25e77c4a5c',1,'fysh']]],
+  ['blue_63',['Blue',['../namespacedoctest_1_1Color.html#a32e9eaf6013139846e848af6e6cf2b92aada3ad8958b1319450cc20f3f8e5e2d6',1,'doctest::Color']]],
+  ['body_64',['body',['../classfysh_1_1Fysh.html#ac01a6fa012ccf6098d82ca1cb6eb0df0',1,'fysh::Fysh']]],
+  ['bright_65',['Bright',['../namespacedoctest_1_1Color.html#a32e9eaf6013139846e848af6e6cf2b92a7659647d16a78c607f9bafaa207b9e07',1,'doctest::Color']]],
+  ['brightgreen_66',['BrightGreen',['../namespacedoctest_1_1Color.html#a32e9eaf6013139846e848af6e6cf2b92a016090b96620a42a63dadf0265977664',1,'doctest::Color']]],
+  ['brightred_67',['BrightRed',['../namespacedoctest_1_1Color.html#a32e9eaf6013139846e848af6e6cf2b92a236dfdbcd49d10dbf1a31f9e2947a671',1,'doctest::Color']]],
+  ['brightwhite_68',['BrightWhite',['../namespacedoctest_1_1Color.html#a32e9eaf6013139846e848af6e6cf2b92a4f80853796b4875d61ff5e4ad138492e',1,'doctest::Color']]],
+  ['buf_69',['buf',['../classdoctest_1_1String.html#a7e031ced488588936a540eba26facf67',1,'doctest::String']]]
 ];

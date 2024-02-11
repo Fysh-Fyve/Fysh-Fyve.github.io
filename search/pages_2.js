@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['functional_20and_20performance_20requirements_963',['Functional and Performance Requirements',['../md_docs_PDD_md_03_fr_pr.html',1,'']]],
-  ['fysh_20programming_20language_20compiler_964',['Fysh Programming Language Compiler',['../md_fysh_README.html',1,'']]]
+  ['ece_20492_20capstone_20project_2199',['ECE 492 Capstone Project',['../md_README.html',1,'']]],
+  ['ece_20492_20risc_2dv_20project_2200',['ECE 492 RISC-V Project',['../md_cpu_README.html',1,'']]]
 ];

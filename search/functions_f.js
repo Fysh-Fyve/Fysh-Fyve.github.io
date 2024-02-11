@@ -1,4 +1,28 @@
 var searchData=
 [
-  ['unicode_746',['unicode',['../classfysh_1_1FyshLexer.html#af7eb45864f4ca5e3ae653ebd4170cb27',1,'fysh::FyshLexer']]]
+  ['scale_1376',['scale',['../structdoctest_1_1Approx.html#a62185fd4c09a63dab61bd893574d8473',1,'doctest::Approx']]],
+  ['scales_1377',['scales',['../classfysh_1_1FyshLexer.html#acdd0918b2fa7ec1034b8b500fcc7acd5',1,'fysh::FyshLexer']]],
+  ['setasdefaultforassertsoutoftestcases_1378',['setAsDefaultForAssertsOutOfTestCases',['../classdoctest_1_1Context.html#ae85cecc7689f009e23cba383484773b2',1,'doctest::Context']]],
+  ['setasserthandler_1379',['setAssertHandler',['../classdoctest_1_1Context.html#a669dd0a596a611eeb0decdb78b661a90',1,'doctest::Context']]],
+  ['setcout_1380',['setCout',['../classdoctest_1_1Context.html#a503e7ebcc794a3cc67fa2e77873cafaa',1,'doctest::Context']]],
+  ['setlast_1381',['setLast',['../classdoctest_1_1String.html#a62268e72280c4eff28d92fe47a76828c',1,'doctest::String']]],
+  ['setonheap_1382',['setOnHeap',['../classdoctest_1_1String.html#ae81f4517c89c01eee8c750eddcf62197',1,'doctest::String']]],
+  ['setoption_1383',['setOption',['../classdoctest_1_1Context.html#a7f7735caa75c60cdf8c8d86a75ce1d81',1,'doctest::Context::setOption(const char *option, bool value)'],['../classdoctest_1_1Context.html#a95e7a0230c5897f0eae36718f51d2f05',1,'doctest::Context::setOption(const char *option, int value)'],['../classdoctest_1_1Context.html#a4352ffc196c4ba56045270e45baa2754',1,'doctest::Context::setOption(const char *option, const char *value)']]],
+  ['setresult_1384',['setResult',['../structdoctest_1_1detail_1_1ResultBuilder.html#a86c0ca727fead43263de4a7e9a59ad23',1,'doctest::detail::ResultBuilder']]],
+  ['setsize_1385',['setSize',['../classdoctest_1_1String.html#a72dcec3321fa6dd19f0463b574b05e8b',1,'doctest::String']]],
+  ['settestsuite_1386',['setTestSuite',['../namespacedoctest_1_1detail.html#ae79cb8df06d35468dd0ba9f04c85802c',1,'doctest::detail']]],
+  ['shouldexit_1387',['shouldExit',['../classdoctest_1_1Context.html#a219b10301380b81c84c0824a6876d9aa',1,'doctest::Context']]],
+  ['size_1388',['size',['../classdoctest_1_1String.html#acc9888303b7330a8dc78d3d79eadcf7c',1,'doctest::String']]],
+  ['skippathfromfilename_1389',['skipPathFromFilename',['../namespacedoctest.html#adb4ee7dd3659dcc165944d73f6e29199',1,'doctest']]],
+  ['slashorcomment_1390',['slashOrComment',['../classfysh_1_1FyshLexer.html#a4da1153fd064976acf6a7cacb1223eb7',1,'fysh::FyshLexer']]],
+  ['string_1391',['String',['../classdoctest_1_1String.html#a2a0aa72649d92cb8da5b89b98bcff752',1,'doctest::String::String(String &amp;&amp;other) noexcept'],['../classdoctest_1_1String.html#ac6e38dd40b68e19ef6898a13f60d2a07',1,'doctest::String::String(std::istream &amp;in, size_type in_size)'],['../classdoctest_1_1String.html#a0ce0a3e6a00b63b0a219a988fc42cec3',1,'doctest::String::String(const char *in, size_type in_size)'],['../classdoctest_1_1String.html#a27ca7976da20bdebbf225fa496c38ad1',1,'doctest::String::String(const String &amp;other)'],['../classdoctest_1_1String.html#ac458ccc54bb0f2d66fe8ca14146ec5f0',1,'doctest::String::String() noexcept'],['../classdoctest_1_1String.html#abb4449cbc613cd973ae774c704fca5dd',1,'doctest::String::String(const char *in)']]],
+  ['stringcontains_1392',['StringContains',['../classdoctest_1_1AssertData_1_1StringContains.html#a6a88dee0e03ef22a1e425696c3070e16',1,'doctest::AssertData::StringContains::StringContains(const String &amp;str)'],['../classdoctest_1_1AssertData_1_1StringContains.html#ae8b0e70648c2863d986b3ca053a78078',1,'doctest::AssertData::StringContains::StringContains(Contains cntn)']]],
+  ['stringify_1393',['stringify',['../structdoctest_1_1IContextScope.html#affbf0f9bf8107a4a8a805d237288141d',1,'doctest::IContextScope::stringify()'],['../classdoctest_1_1detail_1_1ContextScope.html#a4636ac32ae41ae108c7ada4a164ffaeb',1,'doctest::detail::ContextScope::stringify()']]],
+  ['stringifybinaryexpr_1394',['stringifyBinaryExpr',['../namespacedoctest_1_1detail.html#a6879a79aea397a22e296e4afd0a90e3b',1,'doctest::detail']]],
+  ['subcase_1395',['Subcase',['../structdoctest_1_1detail_1_1Subcase.html#aa467f606cedb24696a5013da4737bc90',1,'doctest::detail::Subcase::Subcase(Subcase &amp;&amp;)=delete'],['../structdoctest_1_1detail_1_1Subcase.html#a9e0ce38b3c110677a9188ba130a946f5',1,'doctest::detail::Subcase::Subcase(const Subcase &amp;)=delete'],['../structdoctest_1_1detail_1_1Subcase.html#a8f7d4a5ddfb8ae48663e5cfc786e6f12',1,'doctest::detail::Subcase::Subcase(const String &amp;name, const char *file, int line)']]],
+  ['subcase_5fend_1396',['subcase_end',['../structdoctest_1_1IReporter.html#a05196dd1a5f7e40e8c734cd2a37d4e1e',1,'doctest::IReporter']]],
+  ['subcase_5fstart_1397',['subcase_start',['../structdoctest_1_1IReporter.html#a03ef82d6fb9afe8b0e3bbe24f28dd268',1,'doctest::IReporter']]],
+  ['substr_1398',['substr',['../classdoctest_1_1String.html#a6fd53b95d33900d8a38a3a33c43c928e',1,'doctest::String::substr(size_type pos, size_type cnt=npos) &amp;&amp;'],['../classdoctest_1_1String.html#ace5bc90d48d52944412addef185de9a6',1,'doctest::String::substr(size_type pos, size_type cnt=npos) const &amp;']]],
+  ['swimleft_1399',['swimLeft',['../classfysh_1_1FyshLexer.html#ab95d77b0d3205e89460fefa508aa59f6',1,'fysh::FyshLexer']]],
+  ['swimright_1400',['swimRight',['../classfysh_1_1FyshLexer.html#ad10d6f4f4cc6daf7983e547d5b631c17',1,'fysh::FyshLexer']]]
 ];
